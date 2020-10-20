@@ -10,7 +10,7 @@
 }
 
 
-Let's follow the reverse procedure. Let's first print the #expected variable, then base64 decode it and then later on lets use a url decoder.
+Let's follow the reverse procedure. Let's first print the expected variable, then base64 decode it and then later on lets use a url decoder.
 
 expected = JTYzJTMwJTZlJTc2JTMzJTcyJTc0JTMxJTZlJTY3JTVmJTY2JTcyJTMwJTZkJTVmJTYyJTYxJTM1JTY1JTVmJTM2JTM0JTVmJTMxJTMxJTM3JTM3JTY2JTM3JTM4JTMz
 
